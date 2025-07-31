@@ -8,15 +8,15 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AkulaQWQ&theme=github_dark_dimmed&show_icons=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PhotonSPK&theme=github_dark_dimmed&show_icons=true">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkulaQWQ&theme=github_dark_dimmed&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhotonSPK&theme=github_dark_dimmed&layout=compact">
 </a>
 
 <hr />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AkulaQWQ&theme=github_dark_dimmed&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PhotonSPK&theme=github_dark_dimmed&layout=compact">
 </a>
